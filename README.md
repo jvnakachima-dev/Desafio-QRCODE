@@ -31,6 +31,10 @@ Este projeto é baseado no desafio:
 [Frontend Mentor - QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ---
+## 🌐 Veja o projeto online
+
+👉 [Clique aqui para ver o projeto ao vivo](https://jvnakachima-dev.github.io/Desafio-QRCODE/)
+
 
 👨‍💻 *Desenvolvido como parte dos meus estudos com o objetivo de melhorar minhas habilidades de front-end.*
 
